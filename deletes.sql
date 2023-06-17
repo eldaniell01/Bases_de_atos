@@ -1,0 +1,9 @@
+delete from proveedor; 
+delete from cliente; 
+delete from descuento; 
+delete from detalle_recibo; 
+delete from encabezado_recibo; 
+delete from moto; 
+delete from repuesto; 
+delete from tipo_descuento; 
+delete from vendedor; 
